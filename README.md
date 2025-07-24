@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erick Damián Rodríguez Martínez</h1>
+<h1 align="center">Hi, I'm Erick Damián Rodríguez Martínez</h1>
 <h3 align="center">Computer Systems Engineering Student | Java & Web Developer | Tech Enthusiast</h3>
 
 ---
