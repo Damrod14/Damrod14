@@ -37,7 +37,7 @@ I'm passionate about software development, both frontend and backend, and I enjo
 Java-based microservice that collects cryptocurrency prices, generates PNG charts with XChart, and exposes REST endpoints. Includes a minimal HTML+JS frontend.  
 **Stack**: Java · MySQL · XChart · Google Cloud · REST API
 
-### 🔹 [Monitoring System for Netwey](https://github.com/Damrod14/Netwey-Jaknet)
+### 🔹 [Netwey-Jaknet](https://github.com/Damrod14/Netwey-Jaknet)
 Web platform built with **Jaknet S.A de C.V** for **Netwey**, used to monitor devices and user sessions across multiple branches. Features alerts and role-based dashboards.  
 **Stack**: React · Firebase · Bootstrap · JavaScript
 
