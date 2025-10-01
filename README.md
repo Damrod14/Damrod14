@@ -3,7 +3,7 @@
 
 ---
 
-## 💻 About Me
+##  About Me
 
 I’m currently in my final semester of **Computer Systems Engineering** at **ESCOM - IPN**, Mexico.
 
@@ -11,7 +11,7 @@ I'm passionate about software development, both frontend and backend, and I enjo
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Languages**: Java · Python · C · C++ · JavaScript
 - **Frameworks & Tools**: React · Firebase · Vite · Bootstrap · Git
@@ -21,7 +21,7 @@ I'm passionate about software development, both frontend and backend, and I enjo
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 - Modern web development with React & JS
 - Firebase integration (Auth, DB, Hosting)
@@ -31,7 +31,7 @@ I'm passionate about software development, both frontend and backend, and I enjo
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### 🔹 [CryptoTracker_Web](https://github.com/Damrod14/CryptoTracker_Web)
 Java-based microservice that collects cryptocurrency prices, generates PNG charts with XChart, and exposes REST endpoints. Includes a minimal HTML+JS frontend.  
@@ -48,7 +48,7 @@ Web application designed to analyze product documents and identify the applicabl
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 - **Web Developer - Jaknet**  
   Oct 2024 – Mar 2025  
@@ -62,7 +62,7 @@ Web application designed to analyze product documents and identify the applicabl
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - ✉️ erickrodriguez932@gmail.com  
 - 📍 Tlalnepantla de Baz, State of Mexico  
