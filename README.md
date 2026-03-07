@@ -1,77 +1,45 @@
-<h1 align="center">Hi, I'm Erick Damián Rodríguez Martínez</h1>
-<h3 align="center">Computer Systems Engineering Student | Java & Web Developer | Tech Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=¡Hola!%20soy%20Damián&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <strong>Ingeniero en Sistemas Computacionales | ESCOM - IPN</strong><br>
+  Apasionado por el desarrollo de software, inteligencia artificial y la ciberseguridad.
+</p>
+
+<p align="center">
+  
+</p>
 
 ---
 
-##  About Me
+### Sobre mí:
 
-I’m currently in my final semester of **Computer Systems Engineering** at **ESCOM - IPN**, Mexico.
+Estudiante del último semestre de Ing. Sistemas Computacionales de la **ESCOM - IPN**. Me especializo en crear soluciones eficientes, desde microservicios en **Java** hasta modelos de detección de objetos con **YOLOv8**. 
 
-I'm passionate about software development, both frontend and backend, and I enjoy working on cloud-based projects, networking, and automation. I consider myself proactive, adaptable, and eager to keep learning and building with purpose.
-
----
-
-##  Tech Stack
-
-- **Languages**: Java · Python · C · C++ · JavaScript
-- **Frameworks & Tools**: React · Firebase · Vite · Bootstrap · Git
-- **Databases**: MySQL · Firebase Realtime DB
-- **Other Tools**: Google Cloud Platform · GNS3 · Cisco Packet Tracer · NetBeans · VS Code · Android Studio
-
+- Desarrollé **NOPRO**, mi Trabajo Terminal: una aplicación web de visión por computadora para detectar logotipos **NOM** usando **YOLOv8**.
+- Entusiasta de la ciberseguridad, con experiencia práctica en **Kali Linux** y entornos de red en **GNS3**.
+- Interesado en la automatización de procesos, análisis de datos y desarrollo de herramientas que resuelvan problemas reales.
+- Actualmente buscando oportunidades de **prácticas profesionales**.
 
 ---
 
-##  Skills
+### Tech Stack:
 
-- Modern web development with React & JS
-- Firebase integration (Auth, DB, Hosting)
-- OOP and structured programming
-- Teamwork and adaptability under pressure
-- Effective communication in technical and non-technical environments
-
----
-
-##  Featured Projects
-
-### 🔹 [CryptoTracker_Web](https://github.com/Damrod14/CryptoTracker_Web)
-Java-based microservice that collects cryptocurrency prices, generates PNG charts with XChart, and exposes REST endpoints. Includes a minimal HTML+JS frontend.  
-**Stack**: Java · MySQL · XChart · Google Cloud · REST API
-
-### 🔹 [Netwey-Jaknet](https://github.com/Damrod14/Netwey-Jaknet)
-Web platform built with **Jaknet S.A de C.V** for **Netwey**, used to monitor devices and user sessions across multiple branches. Features alerts and role-based dashboards.  
-**Stack**: React · Firebase · Bootstrap · JavaScript
-
-### 🔹 [NOPRO](https://github.com/Damrod14/NOPRO)
-Web application designed to analyze product documents and identify the applicable Mexican Official Standards (NOM) to streamline regulatory compliance in manufacturing, importation and commercialization.  
-**Stack**: React · Firebase · Firebase Auth · JavaScript
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,js,html,css,react,vite,bootstrap,nodejs,firebase,mysql,postgres,gcp,azure,git,github,linux,windows,vscode,postman&perline=10" />
+  </a>
+</p>
 
 ---
+## Contacto
+<p align="center">
+  <a href="mailto:erickrodriguez932@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-##  Work Experience
-
-- **Web Developer - Jaknet**  
-  Oct 2024 – Mar 2025  
-  Built a monitoring web app for Netwey’s internal use.  
-  Focused on the frontend using React & JS, and contributed to backend integration with Firebase.
-
-- **Electoral Field Assistant - IEEM**  
-  Apr 2024 – Aug 2024  
-  Involved in field logistics, documentation, and team coordination during election preparation.  
-  Gained valuable teamwork, adaptability, and communication skills.
-
----
-
-##  Contact
-
-- ✉️ erickrodriguez932@gmail.com  
-- 📍 Tlalnepantla de Baz, State of Mexico  
-- 📱 +52 55 2325 9935
-
----
-
-## 🌍 Languages
- 
-- **English**: Intermediate (B1)
-
----
+  <a href="https://www.linkedin.com/in/tu-usuario-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
